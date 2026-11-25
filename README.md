@@ -33,9 +33,12 @@ A lightweight, modular RESTful web API built with **Node.js** and **Express.js**
 
 1. **Clone the repository:**
    ```bash
-   ## Getting Started
-
-1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/pathsharasakon-ws/codecademy-express-quote-api.git](https://github.com/pathsharasakon-ws/codecademy-express-quote-api.git)
    cd codecademy-express-quote-api
+2. **Install dependencies:**
+   ```bash
+   npm install
+3. **Run the server:**
+   ```bash
+   node main.js
+4. Open your browser and navigate to http://localhost:4001
